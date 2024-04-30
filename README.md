@@ -1,4 +1,4 @@
-# EMS-Project
+# Employee Management System - Fullstack Project
 
 
 1. Download the zip file
